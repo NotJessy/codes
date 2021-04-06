@@ -1,0 +1,40 @@
+body{
+	background-image: url("..images/filename")
+	background-position:center;
+}
+
+header{
+	height: 300px;
+	border-color: blue;
+	background-image: url("..images/filename");
+}
+
+.container{
+	width: 1000px;
+	background-color: #ffffff;
+	margin: 0 auto;
+	border: 1px solid gray;
+}
+
+nav{
+	clear:both;
+	height: 40 px;
+	background-color: #Colorcode;
+}
+
+nav ul{
+	margin: 0px;
+	margin-top: 200px;
+	list-style-type: none;
+	padding: 10px 0px 20px 50px;
+
+}
+
+nav li{
+	display: inline;
+	margin-right: 50px;
+}
+
+nav li a{
+	color: ;
+}
