@@ -1,0 +1,36 @@
+body {
+		margin: 0;
+		font-family: Arial, Helvetica, Times
+	}
+
+.topnav_aboutus{
+	overflow: hidden;
+	background-color: #996600;
+	margin-top: 88px;
+		}
+
+.topnav_aboutus a {
+	float: left;
+	display: block;
+	color: #ffffff;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 23px;
+	font-family: serif;
+
+	}
+
+.topnav_aboutus a:hover {
+	 background-color: #ffffff;
+	 color: black;
+}
+
+.topnav_aboutus a.active {
+  background-color: #cc8800;
+  color: white;
+}
+
+.topnav_aboutus .icon {
+	 display: none;
+}
